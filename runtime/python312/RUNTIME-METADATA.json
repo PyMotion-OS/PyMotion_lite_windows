@@ -1,0 +1,8 @@
+{
+    "schema":  1,
+    "implementation":  "CPython",
+    "version":  "3.12.10",
+    "architecture":  "amd64",
+    "source":  "Python Software Foundation CPython installation",
+    "license":  "LICENSE.txt"
+}

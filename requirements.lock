@@ -1,0 +1,6 @@
+# Generated from the signed, platform-specific offline wheel set.
+# Do not edit: RELEASE-MANIFEST.json authenticates this file.
+ifaddr==0.2.0 --hash=sha256:085e0305cfe6f16ab12d72e2024030f5d52674afad6911bb1eee207177b8a748
+pymotion-lite==1.0.1 --hash=sha256:4a7bfa58cb8cac7c7c3349232de0ede42593289f06175c087d99d9154a1a473c
+pyserial==3.5 --hash=sha256:c4451db6ba391ca6ca299fb3ec7bae67a5c55dde170964c7a14ceefec02f2cf0
+zeroconf==0.151.3 --hash=sha256:fb1880444668e2a384e925490f1d969ae702bda4472c112a18255446f98ad86b
